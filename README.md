@@ -3,7 +3,7 @@ MICCAI2018 submission "An algorithm for individual intermediate filament trackin
 
 ## Intermediate filament dataset
 
-The dataset consists of 5 image sequences. Each of them contains a ground truth trajectories at ./Sequence/[Sequence ID]/ground_truth . 
+The dataset consists of 5 image sequences in the format TIFF. Each of them contains a ground truth trajectories at ./Sequence/[Sequence ID]/ground_truth . 
 The ground truth trajectory data is stored in ZIP-files, which contain CSV-files describing the position of a filament.
 The name of a CSV-file corresponds to an index of the frame in a sequence.
 Each CSV-file contains two columns: x- and y-coordinate of a filament curve.
