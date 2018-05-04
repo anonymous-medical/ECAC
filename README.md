@@ -1,4 +1,4 @@
-MICCAI2018 submission "An algorithm for individual intermediate filament tracking"
+MICCAI2018 submitted paper "An algorithm for individual intermediate filament tracking"
 ======
 
 ## Intermediate filament dataset
